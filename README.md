@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Habtesoft (Habtamu Emyou)
 - 👀 I’m interested in coding
-- 🌱 I’m currently working in government project ...
+- 🌱 I’m currently working in government projects ...
 - backend dev
 - 💞️ I’m looking to collaborate on other project too
-- 📫 How to reach me  email me habtesoftaau@gmail.com call 0947415345
+- 📫 How to reach me  email me habtesoftaau@gmail.com call +251970038512
 - linkedin https://www.linkedin.com/in/habtamu-emyou-90b8a4101/
 
 <!---
